@@ -1,23 +1,29 @@
 # ISTIAQ-HOSSAIN
-<!-- ═══════════════════════════════════════ -->
-<!--              MIDNIGHT / 01             -->
-<!-- ═══════════════════════════════════════ -->
+<h1 align="left">
+  Hi, I'm Istiaq!
+  <img src="https://github.com/hossainistiaq52-spec.png" width="48" align="center" />
+</h1>
 
-<div align="center">
+<hr/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,50:10243A,100:163B63&height=180&section=header&text=ISTIAQ%20HOSSAIN&fontSize=48&fontColor=EAF4FF&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20%7C%20AI&descSize=13&descAlignY=68&animation=fadeIn" />
+<h3>
+  <i>CSE Undergraduate | Aspiring Software Engineer</i>
+  <br/>
+  <i>Building with Code, Exploring with Curiosity.</i>
+</h3>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=2000&color=7DB7E8&center=true&vCenter=true&width=500&lines=Curiosity+meets+code.;Building+ideas+into+something+real.;Learning+through+experimentation." />
+<a href="https://github.com/hossainistiaq52-spec">
+  <img src="https://img.shields.io/badge/GITHUB-0D1B2A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/hossainistiaq52-spec?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-173B63?style=for-the-badge&logo=git&logoColor=white" />
+</a>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-hossainistiaq52--spec-10243A?style=flat-square&logo=github&logoColor=white)](https://github.com/hossainistiaq52-spec)
-
-</div>
-
-<br/>
+<hr/>
 
 ## `01` — A little about me
 
