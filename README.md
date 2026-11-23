@@ -1,8 +1,8 @@
-# ISTIAQ-HOSSAIN
 <h1 align="left">
-  Hi, I'm Istiaq!
-  <img src="https://github.com/hossainistiaq52-spec.png" width="48" align="center" />
+
+  Hi, I'm Istiaq! 🧠
 </h1>
+
 
 <hr/>
 
